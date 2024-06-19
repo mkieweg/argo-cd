@@ -1967,6 +1967,11 @@
             "type": "boolean",
             "name": "upsert",
             "in": "query"
+          },
+          {
+            "type": "boolean",
+            "name": "dryRun",
+            "in": "query"
           }
         ],
         "responses": {
